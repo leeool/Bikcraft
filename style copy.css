@@ -135,14 +135,15 @@ header{
 
 
 .vantagens::after{
-  display: none;
   content: "";
   background-image: url(img/onda.svg);
   position: absolute;
   width: 500px;
-  height: 200px;
-  background-size: 800px;
-  bottom: 10%;
+  height: 214px;
+  background-size: 700px;
+  filter: var(--sobre-detalhe);
+  z-index: 0;
+  bottom: 5%;
   left: 0;
 }
 .carac{

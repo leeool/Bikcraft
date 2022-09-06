@@ -4,6 +4,7 @@
   --detalhe: #c6c6c6;
   --texto: black;
   --destaque: rgba(230, 230, 230, 0.375);
+  --sobre-detalhe: lightgray;
   --cor-logo: invert(0%) sepia(1%) saturate(6%) hue-rotate(276deg) brightness(103%) contrast(100%)
 }
 
@@ -13,7 +14,8 @@
     --fundo: rgb(33, 33, 33);
     --texto: white;
     --cor-container: rgba(48, 48, 48, 0.579);
-    --detalhe: white;
+    --detalhe: rgba(78, 77, 77, 0.472);
+    --sobre-detalhe: invert(82%) sepia(0%) saturate(1%) hue-rotate(135deg) brightness(90%) contrast(100%);
     --destaque: rgba(60, 60, 60, 0.441);
     --cor-logo: invert(100%) sepia(0%) saturate(0%) hue-rotate(84deg) brightness(105%) contrast(104%);
   }
